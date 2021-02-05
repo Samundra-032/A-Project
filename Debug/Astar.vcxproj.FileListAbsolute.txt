@@ -1,0 +1,4 @@
+C:\Users\Acer\Documents\codeblocks\Astar\Debug\Astar.exe
+C:\Users\Acer\Documents\codeblocks\Astar\Debug\Astar.pdb
+C:\Users\Samundra\OneDrive\Desktop\Astar\Debug\Astar.exe
+C:\Users\Samundra\OneDrive\Desktop\Astar\Debug\Astar.pdb
